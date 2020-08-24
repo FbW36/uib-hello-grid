@@ -97,6 +97,7 @@ p {
     gap: 8px;
     max-width: 400px;
     background-color: rgb(65, 65, 65);
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.6);
     border-radius: 12px;
     margin: 0 auto;
     padding: 24px;
